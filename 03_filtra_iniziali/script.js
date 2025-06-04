@@ -46,4 +46,4 @@ function wordWithA(names, firstLetter) {
     return arrayvuoto
 }
 
-console.log(wordWithA(names, 'A'))
+
