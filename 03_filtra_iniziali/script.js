@@ -35,11 +35,7 @@ function wordWithA(names, firstLetter) {
     const arrayvuoto = [];
 
     for (let i = 0; i < names.length; i++) {
-        /*  console.log(names[i])
-         console.log(names[i][0]) */
-
         if (names[i][0] === firstLetter) {
-            // console.log("c'e un nome con la " + firstLetter) 
             arrayvuoto.push(names[i])
         }
     }
